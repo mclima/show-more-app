@@ -21,7 +21,7 @@ export default function App() {
         types.
       </ShowMore>
 
-      <ShowMore collapsedNumWords={30} buttonColor="#ff6622">
+      <ShowMore collapsedNumWords={30}>
         Inheritance with the prototype chain. Inheriting properties: JavaScript
         objects are dynamic "bags" of properties (referred to as own
         properties). JavaScript objects have a link to a prototype object. When
